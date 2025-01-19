@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sydney2312
 - 👀 I’m interested in making filters,coding,cooking etc..
-- 🌱 I’m currently learning softwear engineering 
+- 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on any projects
   
 
